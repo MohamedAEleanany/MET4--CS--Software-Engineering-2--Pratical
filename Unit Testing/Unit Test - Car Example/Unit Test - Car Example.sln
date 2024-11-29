@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Test - Car Example", "Unit Test - Car Example\Unit Test - Car Example.csproj", "{7080BDD9-B8B9-49F5-9384-5F8A7CF77998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{8B62A4E5-A4EA-4447-83D8-20B62CD9D8AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7080BDD9-B8B9-49F5-9384-5F8A7CF77998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7080BDD9-B8B9-49F5-9384-5F8A7CF77998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7080BDD9-B8B9-49F5-9384-5F8A7CF77998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7080BDD9-B8B9-49F5-9384-5F8A7CF77998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B62A4E5-A4EA-4447-83D8-20B62CD9D8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B62A4E5-A4EA-4447-83D8-20B62CD9D8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B62A4E5-A4EA-4447-83D8-20B62CD9D8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B62A4E5-A4EA-4447-83D8-20B62CD9D8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

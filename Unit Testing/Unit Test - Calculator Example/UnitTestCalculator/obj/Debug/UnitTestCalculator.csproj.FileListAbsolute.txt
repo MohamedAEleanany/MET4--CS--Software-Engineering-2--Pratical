@@ -1,0 +1,7 @@
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Unit Test - Calculator Example\UnitTestCalculator\bin\Debug\UnitTestCalculator.dll
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Unit Test - Calculator Example\UnitTestCalculator\bin\Debug\UnitTestCalculator.pdb
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Unit Test - Calculator Example\UnitTestCalculator\bin\Debug\Unit Test - Calculator Example.exe
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Unit Test - Calculator Example\UnitTestCalculator\bin\Debug\Unit Test - Calculator Example.pdb
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Unit Test - Calculator Example\UnitTestCalculator\obj\Debug\UnitTestCalculator.csprojResolveAssemblyReference.cache
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Unit Test - Calculator Example\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Unit Test - Calculator Example\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb

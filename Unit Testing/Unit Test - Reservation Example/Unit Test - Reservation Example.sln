@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Test - Reservation Example", "Unit Test - Reservation Example\Unit Test - Reservation Example.csproj", "{7A2DF38C-3BDD-41ED-B3C1-99471E9C1FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestReservationTest", "UnitTestReservationTest\UnitTestReservationTest.csproj", "{AC7989EB-D23A-4839-BA69-DF5F6C18980F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2DF38C-3BDD-41ED-B3C1-99471E9C1FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2DF38C-3BDD-41ED-B3C1-99471E9C1FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2DF38C-3BDD-41ED-B3C1-99471E9C1FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2DF38C-3BDD-41ED-B3C1-99471E9C1FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7989EB-D23A-4839-BA69-DF5F6C18980F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7989EB-D23A-4839-BA69-DF5F6C18980F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7989EB-D23A-4839-BA69-DF5F6C18980F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7989EB-D23A-4839-BA69-DF5F6C18980F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

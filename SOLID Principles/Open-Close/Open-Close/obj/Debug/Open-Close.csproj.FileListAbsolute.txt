@@ -1,0 +1,2 @@
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Open-Close\Open-Close\bin\Debug\Open-Close.exe.config
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Open-Close\Open-Close\obj\Debug\Open-Close.csprojResolveAssemblyReference.cache

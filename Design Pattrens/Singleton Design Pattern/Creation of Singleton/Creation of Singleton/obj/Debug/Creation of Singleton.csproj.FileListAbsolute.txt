@@ -1,0 +1,2 @@
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Creation of Singleton\Creation of Singleton\bin\Debug\Creation of Singleton.exe.config
+D:\Practical SW2\Software Engineering 2 Programs\Singleton\Creation of Singleton\Creation of Singleton\bin\Debug\Creation of Singleton.exe.config

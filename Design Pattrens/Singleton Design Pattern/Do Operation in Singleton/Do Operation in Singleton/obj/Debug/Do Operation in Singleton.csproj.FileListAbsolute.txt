@@ -1,0 +1,1 @@
+c:\users\mohamed elenany\documents\visual studio 2012\Projects\Do Operation in Singleton\Do Operation in Singleton\bin\Debug\Do Operation in Singleton.exe.config

@@ -1,0 +1,6 @@
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe.config
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.pdb
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.csprojResolveAssemblyReference.cache
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.exe
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.pdb

@@ -1,0 +1,6 @@
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Interface Segregation\Interface Segregation\bin\Debug\Interface Segregation.exe.config
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Interface Segregation\Interface Segregation\bin\Debug\Interface Segregation.exe
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Interface Segregation\Interface Segregation\bin\Debug\Interface Segregation.pdb
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Interface Segregation\Interface Segregation\obj\Debug\Interface Segregation.csprojResolveAssemblyReference.cache
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Interface Segregation\Interface Segregation\obj\Debug\Interface Segregation.exe
+c:\users\mohamed elenany\documents\visual studio 2013\Projects\Interface Segregation\Interface Segregation\obj\Debug\Interface Segregation.pdb

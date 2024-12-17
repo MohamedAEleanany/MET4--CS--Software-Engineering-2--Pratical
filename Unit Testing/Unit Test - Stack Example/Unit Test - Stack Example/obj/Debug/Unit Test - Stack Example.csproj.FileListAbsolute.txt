@@ -7,3 +7,6 @@ c:\users\mohamed eleanany\documents\visual studio 2012\Projects\Unit Test - Stac
 D:\Practical SW2\Software Engineering 2 Programs\Unit Testing\Unit Test - Stack Example\Unit Test - Stack Example\bin\Debug\Unit Test - Stack Example.exe.config
 D:\Practical SW2\Software Engineering 2 Programs\Unit Testing\Unit Test - Stack Example\Unit Test - Stack Example\obj\Debug\Unit Test - Stack Example.exe
 D:\Practical SW2\Software Engineering 2 Programs\Unit Testing\Unit Test - Stack Example\Unit Test - Stack Example\obj\Debug\Unit Test - Stack Example.pdb
+D:\Practical SW2\MET4 -CS- Software Engineering (2) -Pratical\Unit Testing\Unit Test - Stack Example\Unit Test - Stack Example\bin\Debug\Unit Test - Stack Example.exe.config
+D:\Practical SW2\MET4 -CS- Software Engineering (2) -Pratical\Unit Testing\Unit Test - Stack Example\Unit Test - Stack Example\obj\Debug\Unit Test - Stack Example.exe
+D:\Practical SW2\MET4 -CS- Software Engineering (2) -Pratical\Unit Testing\Unit Test - Stack Example\Unit Test - Stack Example\obj\Debug\Unit Test - Stack Example.pdb

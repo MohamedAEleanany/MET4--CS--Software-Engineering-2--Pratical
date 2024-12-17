@@ -13,26 +13,17 @@ namespace UnitTestSwappingMethod
             Swapping swapValues = new Swapping();
             int val1 = 60;
             int val2 = 120;
-            swapValues.swapTwoValues( val1,  val2);
+            swapValues.swapTwoValues(ref val1,ref  val2);
            Assert.AreEqual(120, val1);
             
         }
 
-        public void swapTwoValues(int val1, int val2)
-        {
-            int temp = val1;
-            val1 = val2;
-            val2 = temp;
-        }
+      
 
         [TestMethod]
         public void TestSwappingMethod()
         {
-            Swapping swapValues = new Swapping();
-            int val1 = 60;
-            int val2 = 120;
-            swapValues.swapTwoValues(val1, val2);
-            Assert.AreEqual(120, val1);
+      
         }
     }
 }
